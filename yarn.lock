@@ -1520,6 +1520,11 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
+"@capacitor/android@3.3.3":
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-3.3.3.tgz#b09708e58fb942e2b5afe6081c7377d4785271aa"
+  integrity sha512-YfLW8gh/b3ZifmhQPFS9ybAnPp4MutQWGFYiAVecRh3O5nJD/UgZAmUmqpSoWRAOWbNGLX4lhWUIs+cCf552fg==
+
 "@capacitor/app@1.0.7":
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/@capacitor/app/-/app-1.0.7.tgz#60e5b33299138b100910fdeb18a2cbc48beb53bd"
@@ -3236,6 +3241,11 @@ clean-stack@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-2.2.0.tgz#ee8472dbb129e727b31e8a10a427dee9dfe4008b"
   integrity sha512-4diC9HaTE+KRAMWhDhrGOECgWZxoevMc5TlkObMqNSsVU62PYzXZ/SMTjzyGAFF1YusgxGcSWTEXBhp0CPwQ1A==
+
+cleverpush-cordova-sdk@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/cleverpush-cordova-sdk/-/cleverpush-cordova-sdk-1.6.2.tgz#ed615d6a1ac1037cf155ddfaa07b8e9eed5e1f26"
+  integrity sha512-3QKX54pYG7v+n91+TyFIj4HGmmfhga9sC33ymC1t/8KiGme2BENwhQfbHUYdk/eaP4ad1+bLBH8QvlLfr2euxQ==
 
 cli-cursor@^3.1.0:
   version "3.1.0"

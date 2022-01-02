@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "46296954294",
+    "project_id": "eyloo-debug",
+    "storage_bucket": "eyloo-debug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46296954294:android:593ace4de54172ea327d17",
+        "android_client_info": {
+          "package_name": "com.eyloo.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46296954294-iuc9me9u70jvar1agedtr3dk9vc3vv56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByRUYDJJSX_u344UBniYVFw3NhO6kog6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46296954294-iuc9me9u70jvar1agedtr3dk9vc3vv56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46296954294:android:6ed1b5e08e01b926327d17",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46296954294-iuc9me9u70jvar1agedtr3dk9vc3vv56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByRUYDJJSX_u344UBniYVFw3NhO6kog6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46296954294-iuc9me9u70jvar1agedtr3dk9vc3vv56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

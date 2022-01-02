@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cleverpush",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
