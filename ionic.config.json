@@ -1,0 +1,7 @@
+{
+  "name": "cleverpush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
